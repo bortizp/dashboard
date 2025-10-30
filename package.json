@@ -1,0 +1,15 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard-Interactivo Taller Individual de Ingeniería en software Profesor: VICTOR HEUGHES ESCOBAR JERIA Integrantes: Bastián Alexander Ortiz Pizarro crear, procesar y diseñar un dashboard interactivo para una empresa E-commerce Que brinde información Valiosa de sus datos de venta.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^4.5.1"
+  }
+}
